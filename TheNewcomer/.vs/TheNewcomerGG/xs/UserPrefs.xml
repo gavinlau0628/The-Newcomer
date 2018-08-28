@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{724BD59C-EBCA-16D5-4113-CBE0786C135C}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/VillagerMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraController.cs" Line="25" Column="65" />
+      <File FileName="Assets/Scripts/DialogHolder.cs" Line="23" Column="53" />
+      <File FileName="Assets/Scripts/DialogueManager.cs" Line="49" Column="17" />
+      <File FileName="Assets/Scripts/DontDesotryInventory.cs" Line="12" Column="45" />
+      <File FileName="Assets/Scripts/LoadNewArea.cs" Line="28" Column="58" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="16" Column="43" />
+      <File FileName="Assets/Scripts/OpeningCutscene.cs" Line="7" Column="38" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="61" Column="30" />
+      <File FileName="Assets/Scripts/PlayerStartPoint.cs" Line="16" Column="60" />
+      <File FileName="Assets/Scripts/QuestManager.cs" Line="23" Column="50" />
+      <File FileName="Assets/Scripts/QuestObject.cs" Line="21" Column="27" />
+      <File FileName="Assets/Scripts/QuestTrigger.cs" Line="24" Column="45" />
+      <File FileName="Assets/Scripts/VillagerMovement.cs" Line="46" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
