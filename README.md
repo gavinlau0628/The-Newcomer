@@ -3,7 +3,7 @@ Open-World RPG of my senior project
 
 
 ![alt text](https://raw.githubusercontent.com/gavinlau0628/The-Newcomer/master/
-      The-Newcomer/TheNewcomer/to/The_newcomer_logo(black_background)v2.png)
+      The-Newcomer/TheNewcomer/The_newcomer_logo(black_background)v2.png)
     
 
 The Newcomer is an open-world, story-based Role Play Game. The player can explore and approach objectives in the game and finish quests along the story.
